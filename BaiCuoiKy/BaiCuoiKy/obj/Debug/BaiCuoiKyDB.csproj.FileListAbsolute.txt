@@ -1,0 +1,14 @@
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\bin\Debug\BaiCuoiKyDB.exe.config
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\bin\Debug\BaiCuoiKyDB.exe
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\bin\Debug\BaiCuoiKyDB.pdb
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKyDB.csproj.AssemblyReference.cache
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKyDB.Chi.resources
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKyDB.ChuyenKhoan.resources
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKyDB.Properties.Resources.resources
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKyDB.QuanLyVi.resources
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKyDB.SuaSoDuVi.resources
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKyDB.Thu.resources
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKyDB.csproj.GenerateResource.cache
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKyDB.csproj.CoreCompileInputs.cache
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKyDB.exe
+D:\hao\code 2013\DoAnDotNet\GomCodeDOTNET\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKyDB.pdb
